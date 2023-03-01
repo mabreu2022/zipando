@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/12 22:50:52.000.206,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/05 22:05:22.000.098,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 21:19:15.000.173,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/19 21:46:03.033,=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/19 21:46:44.601,C:\Users\tokyo\Downloads\ZIPANDO\MainForm.dfm=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/10/19 21:46:44.601,C:\Users\tokyo\Downloads\ZIPANDO\MainForm.pas=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/19 21:47:11.753,C:\Users\tokyo\Downloads\ZIPANDO\ZIP.dproj=C:\Users\tokyo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/10/19 21:48:59.540,=C:\Users\tokyo\Downloads\ZIPANDO\FWZipWriter.pas</Transaction>
+    <Transaction>2021/10/19 21:50:02.975,=C:\Users\tokyo\Downloads\ZIPANDO\FWZipConsts.pas</Transaction>
+    <Transaction>2021/10/19 21:50:03.006,=C:\Users\tokyo\Downloads\ZIPANDO\FWZipCrc32.pas</Transaction>
+    <Transaction>2021/10/19 21:50:03.037,=C:\Users\tokyo\Downloads\ZIPANDO\FWZipCrypt.pas</Transaction>
+    <Transaction>2021/10/19 21:50:03.053,=C:\Users\tokyo\Downloads\ZIPANDO\FWZipStream.pas</Transaction>
+    <Transaction>2021/10/19 21:50:03.069,=C:\Users\tokyo\Downloads\ZIPANDO\FWZipZLib.pas</Transaction>
+    <Transaction>2021/10/19 22:03:55.698,C:\Users\tokyo\Downloads\ZIPANDO\FWZipZLib.pas=</Transaction>
+    <Transaction>2021/10/19 22:03:55.776,C:\Users\tokyo\Downloads\ZIPANDO\FWZipWriter.pas=</Transaction>
+    <Transaction>2021/10/19 22:03:55.807,C:\Users\tokyo\Downloads\ZIPANDO\FWZipStream.pas=</Transaction>
+    <Transaction>2021/10/19 22:03:55.823,C:\Users\tokyo\Downloads\ZIPANDO\FWZipCrypt.pas=</Transaction>
+    <Transaction>2021/10/19 22:03:55.853,C:\Users\tokyo\Downloads\ZIPANDO\FWZipCrc32.pas=</Transaction>
+    <Transaction>2021/10/19 22:03:55.886,C:\Users\tokyo\Downloads\ZIPANDO\FWZipConsts.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
